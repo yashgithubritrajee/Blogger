@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  zoom: 90%;
+  background:  #061836f5;
+ 
+}
